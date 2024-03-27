@@ -1,4 +1,4 @@
-### `terraform fmt`
+### terraform fmt
 terraform init
 terraform validate
 terraform plan
