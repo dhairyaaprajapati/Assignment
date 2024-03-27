@@ -1,2 +1,4 @@
 # enblitz-exc-dhairya
-This is exercise repo
+This is exercise repo for 
+  # Ansible
+  # Terraform
